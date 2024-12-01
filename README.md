@@ -1,2 +1,2 @@
 # ParticleSwarmOptimisation
-PSO
+Contains only C# files
